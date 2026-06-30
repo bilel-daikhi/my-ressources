@@ -1,0 +1,13 @@
+-----------------------------------------------------------------------------------english----------------------------------------------------------------------------------------
+SBSA Gym offers a intuitive online platform for gym members to access a variety of fitness resources and manage their gym experience.
+Users can easily view class schedules, book sessions, track their workouts, and monitor their progress. 
+The application provides personalized fitness plans, exercise tutorials, and performance tracking tools to help users achieve their fitness goals. Additionally, it facilitates seamless communication between trainers and members, allowing for feedback and support. 
+SBSA GYM empowers users to stay motivated, track their fitness journey, and make the most out of their gym membership.
+
+------------------------------------------------------------------------------------french-----------------------------------------------------------------------------------------
+
+
+SBSA GYM propose une plateforme en ligne intuitive pour les membres de la salle de sport afin d'accéder à une variété de ressources fitness et de gérer leur expérience sportive.
+Les utilisateurs peuvent facilement consulter les horaires des cours, réserver des séances, suivre leurs entraînements et surveiller leurs progrès.
+L'application offre des plans de fitness personnalisés, des tutoriels d'exercices et des outils de suivi des performances pour aider les utilisateurs à atteindre leurs objectifs de remise en forme. De plus, elle facilite la communication fluide entre les entraîneurs et les membres, permettant les commentaires et le soutien.
+SBSA GYM permet aux utilisateurs de rester motivés, de suivre leur parcours fitness et de tirer le meilleur parti de leur adhésion à la salle de sport.
